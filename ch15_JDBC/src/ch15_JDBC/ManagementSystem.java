@@ -5,6 +5,19 @@ import java.util.HashMap;
 import db.DBManager;
 import db.DBconnection;
 
+
+/******************************************************
+*
+* 클래스명 | ManagementSystem
+* 	
+* 내용       | DB 관리 시스템 메인
+* 
+* 작성일    | 2023.04.12
+* 소속       | 개발1팀
+* 직급       | 주임
+* 성명       | 서지민
+****************************************************/
+
 public class ManagementSystem {
 
 	public static void main(String[] args) {
