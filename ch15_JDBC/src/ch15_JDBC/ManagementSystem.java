@@ -10,7 +10,7 @@ import db.DBconnection;
 *
 * 클래스명 | ManagementSystem
 * 	
-* 내용       | DB 관리 시스템 메인
+* 내용       | DB 관리 시스템 메인222
 * 
 * 작성일    | 2023.04.12
 * 소속       | 개발1팀
