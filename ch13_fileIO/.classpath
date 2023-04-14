@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/jimin/ini4j-0.5.4.jar"/>
-	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/jimin/ini4j-0.5.4-jdk14.jar"/>
-	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/jimin/opencsv-5.7.1.jar"/>
-	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/jimin/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/RadeonHD6750.JAVAExample/JavaExample/Libraries/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/RadeonHD6750.JAVAExample/JavaExample/Libraries/ini4j-0.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/RadeonHD6750.JAVAExample/JavaExample/Libraries/ini4j-0.5.4-jdk14.jar"/>
+	<classpathentry kind="lib" path="D:/Class/JAVA/JAVA Example/RadeonHD6750.JAVAExample/JavaExample/Libraries/opencsv-5.7.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
