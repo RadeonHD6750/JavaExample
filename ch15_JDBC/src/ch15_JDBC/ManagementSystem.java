@@ -26,6 +26,10 @@ public class ManagementSystem {
 		
 		System.out.println("MariaDB 연결 테스트 = " + dbConnection.connectTestDB());
 		
+		/******************************************************
+		* Rollback을 시연하기 위한 고의적인 주석
+		****************************************************/
+		
 	
 		DBManager dbManager = new DBManager();
 		
