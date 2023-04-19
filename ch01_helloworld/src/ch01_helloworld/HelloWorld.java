@@ -18,7 +18,7 @@ package ch01_helloworld;
 
 public class HelloWorld 
 {
-	
+	//테스트용 주석
 	public static void main(String[] args)
 	{
 		System.out.println("Hello World");
